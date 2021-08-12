@@ -51,3 +51,9 @@ En la sección ```<meta property="og:image" content="https://cdn.discordapp.com/
 
 En la sección ```<meta property="og:description" content="Ejemplo de Discord">``` Linea **13** Cambia ```content="Ejemplo de Discord"``` por cualquier otra descripción que quieras usar <img src="https://cdn.discordapp.com/emojis/771789215637438485.gif?v=1" width="25px"> 
 
+Ahora editaras el icono que aparece en la pestaña.
+
+![Pestaña Editar - Cointor](https://media.discordapp.net/attachments/870482014971768833/875515668911505408/unknown.png) 
+
+En la sección ```<link rel="shortcut icon" type="" href="https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1">``` Linea **15** Cambia ```href="https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1"``` por el icono que quieras usar 
+(recuerda que debe ir dentro de "") <img src="https://cdn.discordapp.com/emojis/839259168514768946.png?v=1" width="25px">
