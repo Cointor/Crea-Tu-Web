@@ -9,6 +9,10 @@ Esta es una explicación mas completa del tutorial ya explicado en un [video](ht
 
 * Descarga el archivo desde **GitHub**
 
-![Descarga IMG CREA TU WEB](https://media.discordapp.net/attachments/870482014971768833/875468249477832754/unknown.png)
+![Descarga IMG CREA TU WEB - Cointor](https://media.discordapp.net/attachments/870482014971768833/875468249477832754/unknown.png)
 
 * Dirígete a [Glitch](https://glitch.com/) <img src="https://cdn.discordapp.com/emojis/860829854530535424.gif?v=1" width="25px"> y crea una cuenta 
+
+* Crea un nuevo proyecto "glitch-hello-website"
+
+![Crea Proyecto Glitch - Cointor](https://media.discordapp.net/attachments/870482016116830208/875471804016263178/unknown.png)
