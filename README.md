@@ -32,3 +32,11 @@ Esta es una explicación mas completa del tutorial ya explicado en un [video](ht
 * Oprime "Upload a File"  y sube los archivos extraídos 
 
 ![Upload - Cointor](https://media.discordapp.net/attachments/870482016116830208/875480115583266866/unknown.png)
+
+## Personalización <img src="https://cdn.discordapp.com/emojis/875136008465825812.png?v=1" width="35px">
+
+* Las siguientes partes son las primeras que puedes editar: 
+
+![Editar - Cointor](https://media.discordapp.net/attachments/870482016116830208/875504485936558090/unknown.png)
+
+En la sección ``` <meta name="theme-color" content="#00ffff"> ``` Linea **9** Cambia ````content="#00ffff" ``` por el color hex de tu preferencia (debe ir dentro de las "")
