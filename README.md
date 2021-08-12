@@ -44,3 +44,8 @@ En la sección ``` <meta name="theme-color" content="#00ffff"> ``` Linea **9** C
 * En la sección ```<meta property="og:title" content="Ejemplo">``` Linea **10** Cambia ```content="Ejemplo"``` Por el titulo que se mostrara en el embed del link: 
 
 ![Link Embed Titulo - Cointor](https://media.discordapp.net/attachments/870482016116830208/875507856764436490/unknown.png) 
+
+En la sección ```<meta property="og:site_name" content="Ejemplo">``` Linea **11** Cambia ```content="Ejemplo"``` Por lo que quieras que salga arriba del titulo puede ser tu nombre :D 
+
+En la sección ```<meta property="og:image" content="https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1">``` Linea **12** Cambia ```https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1``` Por cualquier otro link de imagen `.png`, `.jpg`, `.gif`
+
