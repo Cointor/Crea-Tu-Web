@@ -47,5 +47,7 @@ En la sección ``` <meta name="theme-color" content="#00ffff"> ``` Linea **9** C
 
 En la sección ```<meta property="og:site_name" content="Ejemplo">``` Linea **11** Cambia ```content="Ejemplo"``` Por lo que quieras que salga arriba del titulo puede ser tu nombre :D 
 
-En la sección ```<meta property="og:image" content="https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1">``` Linea **12** Cambia ```https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1``` Por cualquier otro link de imagen `.png`, `.jpg`, `.gif`
+En la sección ```<meta property="og:image" content="https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1">``` Linea **12** Cambia ```https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1``` Por cualquier otro link de imagen `.png`, `.jpg`, `.gif` <img src="https://cdn.discordapp.com/emojis/830995884475940917.png?v=1" width="25px"> Tienes que hacerlo dentro de las ""
+
+En la sección ```<meta property="og:description" content="Ejemplo de Discord">``` Linea **13** Cambia ```content="Ejemplo de Discord"``` por cualquier otra descripción que quieras usar <img src="https://cdn.discordapp.com/emojis/771789215637438485.gif?v=1" width="25px"> 
 
