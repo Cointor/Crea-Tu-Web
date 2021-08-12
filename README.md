@@ -65,3 +65,9 @@ En la sección ```<link rel="shortcut icon" type="" href="https://cdn.discordapp
 * Ahora dirígete a la línea **32**  y en la parte `src="https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1"` cambia el link de dentro de las " "  por cualquier otra imagen que quieras usar como **Avatar** de la web: 
 
 ![Avatar Web - Cointor](https://media.discordapp.net/attachments/870482014971768833/875521243762262026/unknown.png)
+
+## Personalización de Botones <img src="https://cdn.discordapp.com/emojis/865028237285130272.gif?v=1" width="35px">
+
+Los botones son estos que te permitirán re direccionar a tus redes sociales u otro contenido <img src="https://cdn.discordapp.com/emojis/827578614672785468.png?v=1" width="25px">
+
+![Botones - Cointor](https://media.discordapp.net/attachments/870482014971768833/875523759191257118/unknown.png)
