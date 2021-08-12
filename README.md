@@ -7,7 +7,7 @@ Esta es una explicación mas completa del tutorial ya explicado en un [video](ht
 ### Sigue los pasos para **crear tu web**
 
 
-* Descarga el archivo desde **GitHub**
+* Descarga el archivo desde **GitHub** <img src="https://cdn.discordapp.com/emojis/872049162672300032.png?v=1" width="25px">
 
 ![Descarga IMG CREA TU WEB - Cointor](https://media.discordapp.net/attachments/870482014971768833/875468249477832754/unknown.png)
 
@@ -24,3 +24,11 @@ Esta es una explicación mas completa del tutorial ya explicado en un [video](ht
 * Cámbiale el nombre (este será el **"dominio"** de tu link, Si usas "**pedro**" será **pedro.glitch.me**, Elije bien el nombre igual lo podrás cambiar cuando quieras), Igualmente puedes añadirle una descripción (opcional) <img src="https://cdn.discordapp.com/emojis/852644384368492574.gif?v=1" width="25px">
 
 ![Cambia Nombre Web - Cointor](https://media.discordapp.net/attachments/870482016116830208/875475013132775455/unknown.png)
+
+* Extra el .zip que descárgate anterior mente <img src="https://cdn.discordapp.com/emojis/842445661563781120.gif?v=1" width="25px">
+
+* Oprime "New File"
+
+* Oprime "Upload a File"  y sube los archivos extraídos 
+
+![Upload - Cointor](https://media.discordapp.net/attachments/870482016116830208/875480115583266866/unknown.png)
