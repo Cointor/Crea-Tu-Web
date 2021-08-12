@@ -57,3 +57,11 @@ Ahora editaras el icono que aparece en la pestaña.
 
 En la sección ```<link rel="shortcut icon" type="" href="https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1">``` Linea **15** Cambia ```href="https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1"``` por el icono que quieras usar 
 (recuerda que debe ir dentro de "") <img src="https://cdn.discordapp.com/emojis/839259168514768946.png?v=1" width="25px">
+
+## Personalizando la web <img src="https://cdn.discordapp.com/emojis/812218139064139787.gif?v=1" width="35px">
+
+* Dirígete a la línea **27** y en la parte de `url('https://media.discordapp.net/attachments/870482016116830208/875146079111352380/unknown.png');` cambia el link dentro de las ' ' por otro link que quieras usar como el **Fondo** de la web 
+
+* Ahora dirígete a la línea **32**  y en la parte `src="https://cdn.discordapp.com/emojis/787446450581143612.gif?v=1"` cambia el link de dentro de las " "  por cualquier otra imagen que quieras usar como **Avatar** de la web: 
+
+![Avatar Web - Cointor](https://media.discordapp.net/attachments/870482014971768833/875521243762262026/unknown.png)
