@@ -39,4 +39,8 @@ Esta es una explicación mas completa del tutorial ya explicado en un [video](ht
 
 ![Editar - Cointor](https://media.discordapp.net/attachments/870482016116830208/875504485936558090/unknown.png)
 
-En la sección ``` <meta name="theme-color" content="#00ffff"> ``` Linea **9** Cambia ```content="#00ffff" ``` por el color hex de tu preferencia (debe ir dentro de las "") <img src="https://cdn.discordapp.com/emojis/825997818938392596.gif?v=1" width="25px">
+En la sección ``` <meta name="theme-color" content="#00ffff"> ``` Linea **9** Cambia ```content="#00ffff" ```  Por el color hex de tu preferencia (debe ir dentro de las "") <img src="https://cdn.discordapp.com/emojis/825997818938392596.gif?v=1" width="25px">
+
+* En la sección ```<meta property="og:title" content="Ejemplo">``` Linea **10** Cambia ```content="Ejemplo"``` Por el titulo que se mostrara en el embed del link: 
+
+![Link Embed Titulo - Cointor](https://media.discordapp.net/attachments/870482016116830208/875507856764436490/unknown.png) 
