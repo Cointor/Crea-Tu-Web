@@ -79,3 +79,19 @@ Los botones son estos que te permitirán re direccionar a tus redes sociales u o
 Para crear tu propio boton es con lo siguiente: `<a href="" class="btn discord-dropshadow animation hover" target="_blank"><i class="fab fa-discord"></i> Discord</a>` Dentro de las "" del `href=""` Debe ir el link a donde se mandara al usuario y el `class="btn discord-dropshadow animation hover"` es color por lo cual lo puedes cambiar por cualquiera de los siguientes colores disponibles: 
 
 `youtube` `whatsapp` `viber` `twitter` `twitch` `tumblr` `telegram` `steam` `spotify` `soundcloud` `snapchat` `slack` `skype` `reddit` `pinterest` `paypal` `npm` `linkedin` `line` `instagram` `google` `gitlab` `github` `facebook` `discord` `android` `amazon` `watermelon` `turquoise` `transparent` `sun-flower` `soft-purple` `silver` `secondary` `raw-purple` `rasberry` `pumpkin` `primary` `pink` `peter` `peach` `nephritis-blue` `honey` `lavender` `gold` `emerald` `cubered` `cardboard` `blurple` `black` `belize-hole` `aqua` `amethyst` `alizarin`
+
+* Suponiendo que escojes el color `gold` tu resultado seria `class="btn gold-dropshadow animation hover"` Solo se edita la parte antes de el **dropshadow** 
+
+El `<i class="fab fa-discord"></i>` es donde ira el "icono" por asi decirlo del cual va despues del **fa-** los iconos disponibles son: 
+
+`youtube` `whatsapp` `viber` `twitter` `twitch` `tumblr` `telegram` `steam` `spotify` `soundcloud` `snapchat` `slack` `skype` `reddit` `pinterest` `paypal` `npm` `linkedin` `line` `instagram` `google` `gitlab` `github` `facebook` `discord` `android` `amazon`
+
+* Suponiendo que escojes el icono `facebook` tu resultado seria `<i class="fab fa-facebook"></i>` si lo unimos con lo anterior tenemos un resultado: 
+
+`<a href="" class="btn golf-dropshadow animation hover" target="_blank"><i class="fab fa-facebook"></i> Discord</a>` Asi que debemos cambiar el texto de la parte "Discord" por lo que queremos que diga y el resultado seria: `<a href="" class="btn golf-dropshadow animation hover" target="_blank"><i class="fab fa-facebook"></i> Mi Facebook</a>` 
+
+Ahora solo lo colocamos donde emos eliminado los botones anteriores y hacemos **Ctrl + s** y se guardara lo echo 
+
+## Fin 
+
+<img src="https://images-ext-2.discordapp.net/external/gFtTNDa9-wNxJ754NN3PjvbPePBcDfL9q-kQxcXfzAg/https/cdn.discordapp.com/emojis/853443014977781760.png" width="50px">
