@@ -71,3 +71,11 @@ En la sección ```<link rel="shortcut icon" type="" href="https://cdn.discordapp
 Los botones son estos que te permitirán re direccionar a tus redes sociales u otro contenido <img src="https://cdn.discordapp.com/emojis/827578614672785468.png?v=1" width="25px">
 
 ![Botones - Cointor](https://media.discordapp.net/attachments/870482014971768833/875523759191257118/unknown.png)
+
+* Puedes eliminar los ya creados para ir personalizando los tuyos <img src="https://cdn.discordapp.com/emojis/874786876542844979.png?v=1" width="25px">
+
+![Edit Boton - Cointor](https://media.discordapp.net/attachments/870482014971768833/875524748329746503/unknown.png?width=1025&height=208)
+
+Para crear tu propio boton es con lo siguiente: `<a href="" class="btn discord-dropshadow animation hover" target="_blank"><i class="fab fa-discord"></i> Discord</a>` Dentro de las "" del `href=""` Debe ir el link a donde se mandara al usuario y el `class="btn discord-dropshadow animation hover"` es color por lo cual lo puedes cambiar por cualquiera de los siguientes colores disponibles: 
+
+`youtube` `whatsapp` `viber` `twitter` `twitch` `tumblr` `telegram` `steam` `spotify` `soundcloud` `snapchat` `slack` `skype` `reddit` `pinterest` `paypal` `npm` `linkedin` `line` `instagram` `google` `gitlab` `github` `facebook` `discord` `android` `amazon` `watermelon` `turquoise` `transparent` `sun-flower` `soft-purple` `silver` `secondary` `raw-purple` `rasberry` `pumpkin` `primary` `pink` `peter` `peach` `nephritis-blue` `honey` `lavender` `gold` `emerald` `cubered` `cardboard` `blurple` `black` `belize-hole` `aqua` `amethyst` `alizarin`
